@@ -3,14 +3,14 @@ This is a custom split ortholinear mechanical keyboard. I built this project to 
 
 ## Schematic
 Here is my schematic:
-![alt text](<Screenshot 2026-06-30 150544.png>)
+"C:\Users\Logan\Documents\GitHub\wheatsplitter\Photos\Screenshot 2026-06-30 150544.png"
 
 ## PCB
 Here is the PCB:
-![alt text](<Screenshot 2026-06-30 150526.png>)
-![alt text](<Screenshot 2026-06-30 133020.png>)
+"C:\Users\Logan\Documents\GitHub\wheatsplitter\Photos\Screenshot 2026-06-30 150526.png"
+"C:\Users\Logan\Documents\GitHub\wheatsplitter\Photos\Screenshot 2026-06-30 133020.png"
 
 ## CAD
 Here is the CAD for the case:
-![alt text](<Screenshot 2026-06-30 150454.png>)
-![alt text](<Screenshot 2026-06-30 132916.png>)
+"C:\Users\Logan\Documents\GitHub\wheatsplitter\Photos\Screenshot 2026-06-30 150454.png"
+"C:\Users\Logan\Documents\GitHub\wheatsplitter\Photos\Screenshot 2026-06-30 132916.png"
