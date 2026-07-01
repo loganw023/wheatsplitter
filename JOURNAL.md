@@ -1,4 +1,4 @@
-Total time spent: 11 Hours! 
+Total time spent: 13.5 Hours!
 
 # 6/29/2026 5 PM - Finished the schematic   
 
@@ -49,4 +49,13 @@ _Time spent: 1.0h_
 I worked on the firmware, which mostly required me to map the XIAO ports to pin values in the code. I also worked on creating my Github repo, which mostly required me to take a plethora of screenshots and write the README. Overall, I am quite happy with this project! :D
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYyNTUzLCJwdXIiOiJibG9iX2lkIn19--3c26c1637ce3147348307e580e2df217ee9539bf/image.png)
   
+
+# 7/1/2026 - Fixed CAD  
+
+_Time spent: 2.5h_  
+
+Due to my reviewer saying I should fix the CAD, I did just that! I redesigned the entire case from scratch again, acknowledging the split of the two PCBs through the mousebites. Here is a photo of the new cases made in Onshape:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYyNTU1LCJwdXIiOiJibG9iX2lkIn19--5f5090d870308b9e99da7cfea897f452955bf5b5/image.png)
+
+I also added the keycaps and more switches onto the PCB in Onshape to make the keyboard look more complete.   
 
