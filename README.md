@@ -12,5 +12,5 @@ Here is the PCB:
 
 ## CAD
 Here is the CAD for the case:
-<img width="2010" height="982" alt="Image" src="https://github.com/user-attachments/assets/58e73d4e-b237-44f6-bb1b-fbec3cb271f2" />
-<img width="1943" height="434" alt="Image" src="https://github.com/user-attachments/assets/b5f0c8b6-15c0-492a-9a86-c38c7528421a" />
+<img width="1488" height="720" alt="Image" src="https://github.com/user-attachments/assets/70d8d943-c6b1-4560-b9a2-a488192d37c3" />
+<img width="1693" height="682" alt="Image" src="https://github.com/user-attachments/assets/4ee49a0e-0ea3-41d9-a004-a4196f8e08c1" />
